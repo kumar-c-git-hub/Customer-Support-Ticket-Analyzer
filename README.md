@@ -1,4 +1,4 @@
-📊 **Customer Support Ticket Analysis**  
+# 📊 **Customer-Support-Ticket-Analysis#**
 
 A self‑driven Python project analyzing real‑world‑style customer support tickets to turn raw ticket data into actionable insights for operations and customer experience.
 
@@ -32,7 +32,6 @@ A self‑driven Python project analyzing real‑world‑style customer support t
 📌 **Conclusion**  
 This project shows how even a small set of customer support tickets can reveal meaningful patterns when analyzed systematically. By combining data cleaning, text‑based theme extraction, and descriptive statistics, I was able to highlight urgent issues, response‑time gaps, and areas where customer experience can be improved. The same pipeline can be scaled to larger datasets and extended with dashboards or visualizations in the future.
 ________________________________________
-👩‍💻 Author
 KUMAR C Data Analyst 
 💼 LinkedIn: kumar C
 📧 Email: kumarak04122021@gmail.com
