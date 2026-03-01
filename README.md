@@ -1,4 +1,4 @@
-# 📊 **Customer-Support-Ticket-Analysis#**
+# 📊 **Customer-Support-Ticket-Analysis**
 
 A self‑driven Python project analyzing real‑world‑style customer support tickets to turn raw ticket data into actionable insights for operations and customer experience.
 
